@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using DiscGolfWebApp.Models;
 
 namespace DiscGolfWebApp.Data
 {
@@ -9,5 +10,6 @@ namespace DiscGolfWebApp.Data
             : base(options)
         {
         }
+        public DbSet<DiscGolfWebApp.Models.Course> Course { get; set; } = default!;
     }
 }
