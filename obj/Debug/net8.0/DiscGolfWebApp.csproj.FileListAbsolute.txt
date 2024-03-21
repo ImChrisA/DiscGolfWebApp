@@ -144,3 +144,4 @@ C:\Users\chris\source\repos\DiscGolfWebApp\obj\Debug\net8.0\refint\DiscGolfWebAp
 C:\Users\chris\source\repos\DiscGolfWebApp\obj\Debug\net8.0\DiscGolfWebApp.pdb
 C:\Users\chris\source\repos\DiscGolfWebApp\obj\Debug\net8.0\DiscGolfWebApp.genruntimeconfig.cache
 C:\Users\chris\source\repos\DiscGolfWebApp\obj\Debug\net8.0\ref\DiscGolfWebApp.dll
+C:\Users\chris\source\repos\DiscGolfWebApp\obj\Debug\net8.0\DiscGolfWebApp.sourcelink.json
