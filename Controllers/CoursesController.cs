@@ -25,6 +25,18 @@ namespace DiscGolfWebApp.Controllers
             return View(await _context.Course.ToListAsync());
         }
 
+        // GET: Courses/ShowSearchForm
+        public async Task<IActionResult> ShowSearchForm()
+        {
+            return View();
+        }
+
+        // PoST: Courses/ShowSearchReults
+        public async Task<IActionResult> ShowSearchResults(String SearchPhrase)
+        {
+            return View("Index", await _context.Course.Where( i => i.Name.Contains(SearchPhrase)).ToListAsync());
+        }
+
         // GET: Courses/Details/5
         public async Task<IActionResult> Details(int? id)
         {
