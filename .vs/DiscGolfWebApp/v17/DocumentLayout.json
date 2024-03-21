@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\chris\\source\\repos\\DiscGolfWebApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD48CEF-1196-4062-A946-EAEDABA5AA7F}|DiscGolfWebApp.csproj|c:\\users\\chris\\source\\repos\\discgolfwebapp\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCD48CEF-1196-4062-A946-EAEDABA5AA7F}|DiscGolfWebApp.csproj|solutionrelative:views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD48CEF-1196-4062-A946-EAEDABA5AA7F}|DiscGolfWebApp.csproj|c:\\users\\chris\\source\\repos\\discgolfwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCD48CEF-1196-4062-A946-EAEDABA5AA7F}|DiscGolfWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD48CEF-1196-4062-A946-EAEDABA5AA7F}|DiscGolfWebApp.csproj|c:\\users\\chris\\source\\repos\\discgolfwebapp\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD48CEF-1196-4062-A946-EAEDABA5AA7F}|DiscGolfWebApp.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD48CEF-1196-4062-A946-EAEDABA5AA7F}|DiscGolfWebApp.csproj|c:\\users\\chris\\source\\repos\\discgolfwebapp\\data\\migrations\\20240321163822_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD48CEF-1196-4062-A946-EAEDABA5AA7F}|DiscGolfWebApp.csproj|solutionrelative:data\\migrations\\20240321163822_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\DiscGolfWebApp\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\DiscGolfWebApp\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T16:58:00.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\DiscGolfWebApp\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\DiscGolfWebApp\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:51:40.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\DiscGolfWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\DiscGolfWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T16:49:57.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240321163822_initial setup.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\DiscGolfWebApp\\Data\\Migrations\\20240321163822_initial setup.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240321163822_initial setup.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\DiscGolfWebApp\\Data\\Migrations\\20240321163822_initial setup.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240321163822_initial setup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:41:45.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

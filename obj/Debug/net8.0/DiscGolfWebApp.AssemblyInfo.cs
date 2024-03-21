@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscGolfWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+842d3ec88b9ae3af5b10cda7117baa5e7666e23e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1edbb2f7fc3eb8eab64b1c1f24ccdd7e2f5a9120")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscGolfWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscGolfWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
